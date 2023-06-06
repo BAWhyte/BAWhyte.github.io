@@ -1,1 +1,1 @@
-"# BAWhyte.github.io" 
+"# Brian A. Whyte, PhD" 
