@@ -1,2 +1,2 @@
 This is the repository for my personal webpage. The design is based on "Dimension" from HTML5up. 
-Visit my webpage @: bawhyte.github.io
+Visit my webpage @: [bawhyte.github.io](https://bawhyte.github.io/)
